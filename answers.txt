@@ -21,3 +21,8 @@ Answer: Merging combines the histories of the two branches being merged
 and preserves their original commits while rebasing is rewrites the history 
 of both by moving commits from one branch on top of another to make a linear 
 commit history.
+
+Q4: What are you looking forward to this semester?
+
+Answer: I am looking forward to learning the fundamentals of python, data science, and machine
+learning and applying these concepts to projects to prepare myself for future internships.
