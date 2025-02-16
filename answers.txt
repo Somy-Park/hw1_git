@@ -9,3 +9,8 @@ for others to pull and see. Finally, we can ask others to review our code
 in the form of pull requests so that we create the most efficient and          
 maintainable code as possible.
 
+Q2: What field could data science be applied to? Give an Example.
+
+Answer: Data science can be applied in the healthcare field. For example, they can use machine learning
+models to analyze the history of patient data to predict the change of them developing health conditions
+such as heart disease.
