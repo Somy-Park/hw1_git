@@ -1,0 +1,11 @@
+Q1: Why might we consider using Git?
+
+Answer: We would use git because for it can maintain the history of our        
+project code so we could access previous edits if needed. We can
+also create our own branch so we don't break the working version. Since
+we are doing group projects in this class, git also allows for collaboration
+so that others can work on different features of the code and push their work
+for others to pull and see. Finally, we can ask others to review our code  
+in the form of pull requests so that we create the most efficient and          
+maintainable code as possible.
+
